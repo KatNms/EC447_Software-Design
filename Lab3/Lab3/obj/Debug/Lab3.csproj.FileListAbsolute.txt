@@ -1,0 +1,10 @@
+c:\users\katrina\documents\visual studio 2017\Projects\Lab3\Lab3\bin\Debug\Lab3.exe.config
+c:\users\katrina\documents\visual studio 2017\Projects\Lab3\Lab3\bin\Debug\Lab3.exe
+c:\users\katrina\documents\visual studio 2017\Projects\Lab3\Lab3\bin\Debug\Lab3.pdb
+c:\users\katrina\documents\visual studio 2017\Projects\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+c:\users\katrina\documents\visual studio 2017\Projects\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+c:\users\katrina\documents\visual studio 2017\Projects\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+c:\users\katrina\documents\visual studio 2017\Projects\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+c:\users\katrina\documents\visual studio 2017\Projects\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+c:\users\katrina\documents\visual studio 2017\Projects\Lab3\Lab3\obj\Debug\Lab3.exe
+c:\users\katrina\documents\visual studio 2017\Projects\Lab3\Lab3\obj\Debug\Lab3.pdb
